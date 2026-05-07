@@ -1,10 +1,10 @@
 ## Exemplo-Visual-FoxPro-NFe-SEFAZ
 
-Exemplo em Visual FoxPro de integração de sistemas (SEFAZ) utilizando DLL DFe da Unimake. 
+Exemplo em Visual FoxPro de integração de sistemas SEFAZ utilizando DLL DFe da Unimake. 
 
 ### Requisitos
 
-- Registro Server da DLL Unimake com RegAsm.exe 
+- Registro Server da DLL Unimake com (RegAsm.exe) 
 
 #### O que você vai encontrar neste projeto
 
