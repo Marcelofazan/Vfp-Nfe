@@ -23,9 +23,10 @@ Exemplo em Visual FoxPro de integração de sistemas (SEFAZ) utilizando DLL DFe 
 - **NFe** - Utilização de selecionarcertificadoa1
 - **NFe** - Utilização de validarxml
 
-#### Disponivel em (https://wiki.unimake.com.br/)
+#### Disponivel em 
 
-  - [Unimake](https://wiki.unimake.com.br/index.php/Manuais:Unimake.DFe/CodigoConsumoVisualFoxPro)
+GitHub: ([https://wiki.unimake.com.br/](https://github.com/Unimake/DFe))
+
 
 #### NFe 
 
