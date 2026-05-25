@@ -22,4 +22,4 @@ Exemplo em Visual FoxPro de integração de sistemas SEFAZ utilizando DLL DFe da
 - Disponivel em GitHub: ([https://github.com/Unimake/DFe](https://github.com/Unimake/DFe))
 
 #### 💪 Refatoração de Código
-Exemplo criado através de conversão de linguaguens, reescrito com base no exemplo disponibilizado em **Visual Basic 5** pela (Unimake). 
+Exemplo criado através de conversão de linguaguens, reescrito com base no exemplo disponibilizado em **Visual Basic** pela (Unimake). 
